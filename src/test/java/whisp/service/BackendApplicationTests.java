@@ -1,4 +1,4 @@
-package com.whisp.service.backend;
+package whisp.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
